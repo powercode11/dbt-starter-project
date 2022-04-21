@@ -1,1 +1,1 @@
-select * from bigquery-public-data.stackoverflow.users x where x.id is not null
+select * from bigquery-public-data.stackoverflow.users x where x.id is not null limit 100;
