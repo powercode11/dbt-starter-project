@@ -1,1 +1,1 @@
-select * from bigquery-public-data.stackoverflow.users
+select * from bigquery-public-data.stackoverflow.comments
