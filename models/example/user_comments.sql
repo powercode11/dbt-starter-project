@@ -1,1 +1,0 @@
-select * from bigquery-public-data.stackoverflow.comments x where x.id is not null limit 100;
