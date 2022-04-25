@@ -1,4 +1,4 @@
 select *
 from
-bigquery-public-data.stackoverflow.id
+bigquery-public-data.stackoverflow.users
 limit 100;
