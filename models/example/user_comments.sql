@@ -1,4 +1,4 @@
 select *
-from 
-bigquery-public-data.stackoverflow.comments
+from
+bigquery-public-data.stackoverflow.users
 limit 100;
